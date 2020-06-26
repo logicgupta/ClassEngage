@@ -10,4 +10,4 @@ ClassEngage lets you build your own app and lets you create batches and add stud
 
 
 ## You can look over the application by downloading from PlayStore
-https://play.google.com/store/apps/details?id=com.ando.classengage
+https://play.google.com/store/apps/details?id=com.classengage.android
